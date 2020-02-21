@@ -1,0 +1,4 @@
+total files owner
+35	root
+16	qa1
+
